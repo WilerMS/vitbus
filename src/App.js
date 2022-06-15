@@ -1,4 +1,4 @@
-import NavigationBar from './Components/NavigationBar/index'
+import NavigationBar from './Components/NavigationBar/index' 
 // import SearchBar from './Components/SearchBar/index'
 // import Map from './Components/Map/index'
 
